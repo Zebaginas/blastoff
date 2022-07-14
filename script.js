@@ -14,5 +14,4 @@ const para = document.createElement('p');
     else{para.textContent = i;}
     
     output.appendChild(para);
-
 }
